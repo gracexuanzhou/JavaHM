@@ -4,6 +4,7 @@ public class Door {
     double width,height;
     boolean open;
 
+
     public void openDoor(){
         System.out.println("Openning door");
         this.open = true;
